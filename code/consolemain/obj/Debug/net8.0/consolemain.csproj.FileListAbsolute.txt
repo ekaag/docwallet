@@ -1,0 +1,15 @@
+C:\code\ekaag\docwallet\code\consolemain\bin\Debug\net8.0\consolemain.exe
+C:\code\ekaag\docwallet\code\consolemain\bin\Debug\net8.0\consolemain.deps.json
+C:\code\ekaag\docwallet\code\consolemain\bin\Debug\net8.0\consolemain.runtimeconfig.json
+C:\code\ekaag\docwallet\code\consolemain\bin\Debug\net8.0\consolemain.dll
+C:\code\ekaag\docwallet\code\consolemain\bin\Debug\net8.0\consolemain.pdb
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\consolemain.csproj.AssemblyReference.cache
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\consolemain.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\consolemain.AssemblyInfoInputs.cache
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\consolemain.AssemblyInfo.cs
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\consolemain.csproj.CoreCompileInputs.cache
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\consolemain.dll
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\refint\consolemain.dll
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\consolemain.pdb
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\consolemain.genruntimeconfig.cache
+C:\code\ekaag\docwallet\code\consolemain\obj\Debug\net8.0\ref\consolemain.dll
